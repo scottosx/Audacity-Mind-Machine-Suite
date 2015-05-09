@@ -1,0 +1,1 @@
+HighPassFilter...: rolloff="48 dB" frequency=17000.000000

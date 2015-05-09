@@ -1,0 +1,1 @@
+Normalize: ApplyGain=yes RemoveDcOffset=yes Level=-16.500000 StereoIndependent=yes

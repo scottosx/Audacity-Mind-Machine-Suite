@@ -1,0 +1,1 @@
+Panning[LFO]2a...: rate=20.000000 waveform=pulse duty=50 phase=0 left=0 right=100
