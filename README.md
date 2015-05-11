@@ -13,7 +13,9 @@ In addition, several types of audio entrainment methods are supported. These inc
 
 ---
 
-Change Log
+## Change Log ##
+
+
 May 11, 2015 First set of commits with comprehensive plugin set
 
 ---
