@@ -1,5 +1,5 @@
 # Audacity-Mind-Machine-Suite
-Plugins for creating Light and Sound Meditation sessions using Audacity
+Plugins for creating Light and Sound Meditation sessions using Audacity. Visit the wiki for more info: <https://github.com/scottosx/Audacity-Mind-Machine-Suite/wiki>
 
 The Audacity Mind Machine Suite is a set of plugins, effect chains, and presets to create meditation sessions for light and sound mind machines.
 
