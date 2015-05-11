@@ -11,5 +11,11 @@ The second is SpectraStrobe which controls all RGB color channels and also requi
 
 In addition, several types of audio entrainment methods are supported. These include binaural beats, monaural beats, and isochronic pulses using either audio tracks, tones or noise.
 
+---
+
 Change Log
 May 11, 2015 First set of commits with comprehensive plugin set
+
+---
+
+Curated and programmed by Scott Hendrickson of MindPlace Inc, makers of the Proteus, Procyon, and Kasina mind machines. Includes GPLv2 plugins programmed by Steve Daulton and David Sky with other various code snippets from the Audacity forums. All rights and credit are retained by the original authors.
